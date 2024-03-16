@@ -1,0 +1,89 @@
+facility,start_date,end_date,weeks_of_data,operator,type,state,avg_pop,max_pop,min_pop,pop_change_percent,vax_timing,community_vax_rate,political_leaning,staff_positive,any_outbreak,unique_outbreaks,unique_outbreaks_perweeksdata,outbreak_weeks,outbreak_weeks_percent,max_incidence_normalized,max_incidence_percent
+Adams County Correctional Center,2020-05-06,2021-06-11,57.29,Public,mixed,MS,636.86,926,300,-68,late,low,R,NA,TRUE,1,0.01746,11,19.20,0.210,20.99
+Adelanto ICE Processing Center,2020-05-30,2021-06-14,54.29,Private,dedicated,CA,827.69,1374,291,-79,early,low,D,1,TRUE,1,0.01842,1,1.84,0.051,5.11
+Alexandria Staging Facility,2020-06-02,2021-06-17,54.29,Private,dedicated,LA,162.73,206,119,-42,late,low,R,15,TRUE,2,0.03684,12,22.11,0.101,10.08
+Allen Parish Detention Center,2020-07-18,2021-06-12,47.00,Public,mixed,LA,69.15,80,37,-54,late,low,R,NA,TRUE,1,0.02128,3,6.38,0.113,11.25
+Baker County Detention Center,2020-06-02,2021-06-17,54.29,Public,mixed,FL,207.40,239,143,-40,late,low,R,NA,FALSE,0,0.00000,0,0.00,0.025,2.48
+Bergen County Jail,2020-05-06,2021-06-11,57.29,Public,mixed,NJ,185.72,213,142,-33,late,high,D,1,FALSE,0,0.00000,0,0.00,0.055,5.53
+Berks Family Residential Center,2020-12-12,2021-06-05,25.00,Public,mixed,PA,16.77,17,16,-6,early,low,D,NA,TRUE,1,0.04000,3,12.00,0.188,18.75
+Boone County Jail,2021-04-06,2021-06-08,9.00,Public,mixed,KY,55.60,60,54,-10,late,low,R,NA,FALSE,0,0.00000,0,0.00,0.019,1.85
+Bristol County Detention Center,2020-05-07,2021-06-12,57.29,Public,mixed,MA,70.90,128,18,-86,early,high,D,NA,TRUE,1,0.01746,3,5.24,0.217,21.74
+Broward Transitional Center,2020-05-07,2021-06-12,57.29,Private,dedicated,FL,420.55,482,310,-36,late,low,R,NA,TRUE,3,0.05237,6,10.47,0.095,9.52
+Buffalo (Batavia) Service Processing Center,2020-05-12,2021-06-15,57.00,Private,dedicated,NY,316.84,379,231,-39,late,low,D,NA,TRUE,1,0.01754,4,7.02,0.128,12.83
+Butler County Jail,2020-12-15,2021-06-15,26.00,Public,mixed,OH,93.74,102,82,-20,late,low,R,1,FALSE,0,0.00000,0,0.00,0.011,1.09
+CCA Florence Correctional Center,2020-09-12,2021-06-05,38.00,Private,mixed,AZ,111.92,133,84,-37,late,low,D,NA,TRUE,2,0.05263,19,50.00,0.411,41.07
+Cache County Jail,2020-08-31,2021-06-14,41.00,Public,mixed,UT,4.90,15,1,-93,late,low,R,NA,TRUE,1,0.02439,4,9.76,0.533,53.33
+Calhoun County Correctional Center,2020-05-15,2021-06-13,56.29,Public,mixed,MI,127.79,138,91,-34,early,low,D,NA,TRUE,1,0.01777,3,5.33,0.145,14.49
+Cambria County Prison,2020-10-03,2021-06-05,35.00,Public,mixed,PA,13.50,31,6,-81,early,low,D,NA,TRUE,3,0.08571,8,22.86,0.143,14.29
+Catahoula Correctional Center,2020-05-06,2021-06-11,57.29,Public,mixed,LA,261.59,436,16,-96,late,low,R,NA,TRUE,2,0.03491,3,5.24,0.092,9.17
+Charleston County Detention Center,2020-06-25,2021-06-17,51.00,Public,mixed,SC,4.81,10,1,-90,late,low,R,NA,TRUE,1,0.01961,3,5.88,0.100,10.00
+Chase County Detention Facility,2020-08-05,2021-06-16,45.00,Public,mixed,KS,60.30,70,48,-31,late,low,R,NA,TRUE,3,0.06667,19,42.22,0.396,39.58
+Clinton County Correctional Facility,2020-11-24,2021-06-08,28.00,Public,mixed,PA,80.52,82,77,-6,early,low,D,NA,TRUE,1,0.03571,5,17.86,0.388,38.75
+Coastal Bend Detention Center,2020-08-25,2021-06-15,42.00,Private,mixed,TX,8.05,19,3,-84,late,low,R,NA,TRUE,2,0.04762,6,14.29,0.474,47.37
+Cumberland County Jail,2020-11-17,2021-06-08,29.00,Public,mixed,NC,4.13,5,4,-20,early,low,R,NA,FALSE,0,0.00000,0,0.00,0.000,0.00
+Dodge County Jail,2020-12-05,2021-06-05,26.00,Public,mixed,WI,73.52,83,69,-17,early,low,D,NA,FALSE,0,0.00000,0,0.00,0.025,2.50
+Douglas County Corrections,2020-09-04,2021-06-11,40.00,Public,mixed,NE,16.83,19,15,-21,early,low,R,NA,FALSE,0,0.00000,0,0.00,0.000,0.00
+Eden Detention Center,2020-09-16,2021-06-09,38.00,Public,mixed,TX,141.18,271,45,-83,late,low,R,NA,TRUE,2,0.05263,6,15.79,0.862,86.21
+El Paso Service Processing Center,2020-05-06,2021-06-11,57.29,Private,dedicated,TX,430.57,554,301,-46,late,low,R,1,TRUE,2,0.03491,6,10.47,0.131,13.06
+Elizabeth Detention Center,2020-05-06,2021-06-11,57.29,Private,dedicated,NJ,142.03,171,99,-42,late,high,D,2,TRUE,2,0.03491,9,15.71,0.140,14.00
+Eloy Federal Contract Facility,2020-06-02,2021-06-17,54.29,Private,dedicated,AZ,686.00,1075,323,-70,late,low,D,1,TRUE,2,0.03684,18,33.16,0.207,20.73
+Etowah County Jail,2020-05-06,2021-06-11,57.29,Public,mixed,AL,138.33,177,85,-52,late,low,R,NA,TRUE,1,0.01746,2,3.49,0.073,7.34
+Folkston ICE Processing Center (Main),2020-05-06,2021-06-10,57.14,Private,dedicated,GA,335.19,486,119,-76,late,low,D,NA,TRUE,1,0.01750,7,12.25,0.476,47.62
+Franklin County House of Corrections,2020-05-28,2021-06-12,54.29,Public,mixed,MA,21.36,22,21,-5,early,high,D,NA,TRUE,1,0.01842,2,3.68,0.048,4.76
+Freeborn County Adult Detention Center,2020-07-24,2021-06-11,46.00,Public,mixed,MN,56.77,63,44,-30,early,low,D,NA,FALSE,0,0.00000,0,0.00,0.017,1.72
+Geauga County Jail,2020-08-31,2021-06-14,41.00,Public,mixed,OH,33.64,49,20,-59,late,low,R,NA,TRUE,1,0.02439,4,9.76,0.200,20.00
+Glades County Detention Center,2020-05-30,2021-06-14,54.29,Public,mixed,FL,328.85,390,213,-45,late,low,R,NA,TRUE,2,0.03684,6,11.05,0.149,14.87
+Hall County Sheriff,2021-02-06,2021-06-05,17.00,Public,mixed,GA,23.28,26,21,-19,late,low,D,NA,FALSE,0,0.00000,0,0.00,0.038,3.85
+Hardin County Jail,2020-11-19,2021-06-10,29.00,Public,mixed,KY,37.07,39,31,-21,late,low,R,NA,FALSE,0,0.00000,0,0.00,0.081,8.11
+Henderson Detention Center,2020-07-24,2021-06-11,46.00,Public,mixed,NV,147.79,185,105,-43,late,low,D,NA,FALSE,0,0.00000,0,0.00,0.054,5.43
+Houston Contract Detention Facility,2020-05-07,2021-06-12,57.29,Private,dedicated,TX,391.84,625,172,-72,late,low,R,2,TRUE,3,0.05237,11,19.20,0.221,22.11
+Howard County Detention Center,2020-11-20,2021-06-11,29.00,Public,mixed,MD,14.93,17,12,-29,early,high,D,NA,FALSE,0,0.00000,0,0.00,0.063,6.25
+Hudson County Jail,2020-05-06,2021-06-11,57.29,Public,mixed,NJ,140.12,213,65,-69,late,high,D,1,FALSE,0,0.00000,0,0.00,0.009,0.94
+Immigration Centers of America - Farmville,2020-05-06,2021-06-11,57.29,Private,dedicated,VA,306.36,530,84,-84,late,high,D,NA,TRUE,1,0.01746,4,6.98,0.394,39.43
+Imperial Regional Detention Facility,2020-05-28,2021-06-13,54.43,Private,dedicated,CA,389.27,534,240,-55,early,low,D,NA,TRUE,1,0.01837,11,20.21,0.105,10.48
+Irwin County Detention Center,2020-05-06,2021-06-11,57.29,Private,mixed,GA,494.81,661,287,-57,late,low,D,NA,TRUE,1,0.01746,1,1.75,0.132,13.24
+Joe Corley Detention Center,2020-05-06,2021-06-11,57.29,Private,mixed,TX,95.98,153,25,-84,late,low,R,NA,TRUE,1,0.01746,1,1.75,0.080,8.00
+Kandiyoh County Jail,2020-11-21,2021-06-05,28.00,Public,mixed,MN,72.28,76,65,-14,early,low,D,NA,TRUE,1,0.03571,5,17.86,0.237,23.68
+Kankakee County Detention Center,2021-01-12,2021-06-08,21.00,Public,mixed,IL,40.14,48,34,-29,early,low,D,NA,TRUE,1,0.04762,4,19.05,0.304,30.43
+Karnes County Correctional Center,2021-01-21,2021-03-11,7.00,Private,mixed,TX,1.00,1,1,0,late,low,R,NA,FALSE,0,0.00000,0,0.00,0.000,0.00
+Karnes County Residential Center,2020-06-26,2021-06-11,50.00,Private,mixed,TX,152.96,231,90,-61,late,low,R,NA,TRUE,2,0.04000,19,38.00,0.813,81.25
+Krome North Service Processing Center,2020-05-06,2021-06-11,57.29,Private,dedicated,FL,438.45,550,286,-48,late,low,R,NA,TRUE,1,0.01746,3,5.24,0.058,5.82
+LaSalle County Regional Detention Center,2020-09-23,2021-06-09,37.00,Public,mixed,TX,40.34,58,1,-98,late,low,R,NA,TRUE,1,0.02703,3,8.11,0.161,16.07
+Laredo Processing Center,2020-09-09,2021-06-16,40.00,Private,mixed,TX,112.71,198,73,-63,late,low,R,NA,TRUE,1,0.02500,8,20.00,0.317,31.68
+Limestone County Detention Center,2020-08-04,2021-06-15,45.00,Public,mixed,TX,171.70,265,84,-68,late,low,R,NA,TRUE,3,0.06667,14,31.11,0.350,35.00
+Lincoln County Detention Center,2020-05-14,2021-06-12,56.29,Public,mixed,MO,2.98,5,0,-100,late,low,R,NA,FALSE,0,0.00000,0,0.00,0.000,0.00
+Linn County Jail,2020-07-28,2021-06-15,46.00,Public,mixed,OR,3.60,5,2,-60,early,low,D,NA,FALSE,0,0.00000,0,0.00,0.000,0.00
+McHenry County Adult Correctional Facility,2020-07-28,2021-06-15,46.00,Public,mixed,IL,154.06,222,101,-55,early,low,D,NA,FALSE,0,0.00000,0,0.00,0.017,1.72
+Monroe County Detention - Dorm,2021-02-28,2021-06-06,14.00,Public,mixed,MI,8.67,10,8,-20,early,low,D,NA,FALSE,0,0.00000,0,0.00,0.000,0.00
+Montgomery County Jail,2020-09-29,2021-06-08,36.00,Public,mixed,MO,22.24,26,21,-19,late,low,R,NA,FALSE,0,0.00000,0,0.00,0.000,0.00
+Morgan County Detention Center,2020-11-13,2021-06-11,30.00,Public,mixed,GA,23.71,28,22,-21,late,low,D,NA,FALSE,0,0.00000,0,0.00,0.043,4.35
+Morrow County Correctional Facility,2020-05-06,2021-06-11,57.29,Public,mixed,OH,18.41,32,6,-81,late,low,R,NA,TRUE,1,0.01746,3,5.24,0.100,10.00
+Nevada Southern Detention Center,2020-05-18,2021-06-16,56.29,Private,mixed,NV,121.86,167,82,-51,late,low,D,NA,TRUE,1,0.01777,3,5.33,0.188,18.82
+Nobles County Jail,2020-11-19,2021-06-10,29.00,Public,mixed,MN,1.00,1,1,0,early,low,D,NA,TRUE,1,0.03448,3,10.34,1.000,100.00
+Nye County Jail,2020-07-10,2021-06-11,48.00,Public,mixed,NV,71.63,77,63,-18,late,low,D,NA,TRUE,3,0.06250,11,22.92,0.292,29.23
+Otay Mesa Detention Center (San Diego CDF),2020-05-06,2021-06-11,57.29,Private,dedicated,CA,550.76,790,341,-57,early,low,D,11,TRUE,1,0.01746,6,10.47,0.085,8.52
+Otero County Processing Center,2020-05-06,2021-06-11,57.29,Private,dedicated,NM,426.60,689,188,-73,early,low,D,NA,TRUE,2,0.03491,6,10.47,0.106,10.58
+Phelps County Jail,2020-08-13,2021-06-17,44.00,Public,mixed,MO,14.76,18,13,-28,late,low,R,NA,FALSE,0,0.00000,0,0.00,0.077,7.69
+Pike County Correctional Facility,2020-05-06,2021-06-11,57.29,Public,mixed,PA,104.17,234,40,-83,early,low,D,NA,TRUE,1,0.01746,3,5.24,0.121,12.07
+Plymouth County Correctional Facility,2021-01-05,2021-06-08,22.00,Public,mixed,MA,87.91,100,74,-26,early,high,D,NA,FALSE,0,0.00000,0,0.00,0.011,1.09
+Polk County Jail,2020-05-14,2021-06-12,56.29,Public,mixed,IA,28.75,31,24,-23,late,low,R,NA,TRUE,1,0.01777,5,8.88,0.138,13.79
+Port Isabel Detention Center,2020-05-14,2021-06-12,56.29,Private,dedicated,TX,533.14,747,261,-65,late,low,R,NA,TRUE,2,0.03553,10,17.77,0.168,16.84
+Pottawattamie County Jail,2021-03-04,2021-06-10,14.00,Public,mixed,IA,5.47,8,4,-50,late,low,R,NA,FALSE,0,0.00000,0,0.00,0.000,0.00
+Prairieland Detention Facility,2020-05-06,2021-06-11,57.29,Private,dedicated,TX,393.10,502,271,-46,late,low,R,NA,TRUE,1,0.01746,6,10.47,0.106,10.62
+Rio Grande Detention Center,2020-07-17,2021-06-11,47.00,Private,mixed,TX,201.52,316,98,-69,late,low,R,NA,TRUE,3,0.06383,5,10.64,0.478,47.78
+Rolling Plains Detention Center,2020-05-06,2021-06-11,57.29,Private,mixed,TX,51.36,69,25,-64,late,low,R,NA,TRUE,3,0.05237,9,15.71,0.188,18.84
+San Juan Staging Facility,2020-08-13,2021-06-17,44.00,Private,dedicated,PR,3.47,4,3,-25,early,high,D,NA,TRUE,1,0.02273,5,11.36,1.000,100.00
+San Luis Regional Detention Center,2020-06-02,2021-06-17,54.29,Private,mixed,CA,56.09,98,43,-56,early,low,D,NA,TRUE,2,0.03684,7,12.89,0.875,87.50
+Seneca County Jail,2021-01-18,2021-06-07,20.00,Public,mixed,NY,29.05,34,24,-29,late,low,D,NA,TRUE,1,0.05000,3,15.00,0.242,24.24
+Sherburne County Jail,2020-11-17,2021-06-08,29.00,Public,mixed,MN,70.57,78,58,-26,early,low,D,NA,FALSE,0,0.00000,0,0.00,0.000,0.00
+South Central Regional Jail,2020-12-31,2021-06-09,22.86,Public,mixed,WV,2.50,3,2,-33,late,low,R,NA,TRUE,1,0.04375,3,13.13,0.500,50.00
+South Louisiana Correctional Center,2020-06-30,2021-06-15,50.00,Private,mixed,LA,231.29,464,82,-82,late,low,R,NA,TRUE,2,0.04000,10,20.00,0.351,35.05
+South Texas Family Residential Center (Dilley),2020-07-24,2021-06-11,46.00,Private,mixed,TX,414.45,827,146,-82,late,low,R,NA,TRUE,1,0.02174,14,30.43,0.395,39.53
+Stewart Detention Center,2020-05-06,2021-06-11,57.29,Private,dedicated,GA,1048.69,1408,619,-56,late,low,D,2,TRUE,2,0.03491,7,12.22,0.089,8.95
+Strafford County Corrections,2020-05-20,2021-06-11,55.29,Public,mixed,NH,79.95,90,61,-32,late,high,D,NA,TRUE,1,0.01809,3,5.43,0.078,7.78
+Wakulla County Jail,2020-06-23,2021-06-15,51.00,Public,mixed,FL,69.04,83,45,-46,late,low,R,NA,TRUE,1,0.01961,4,7.84,0.169,16.87
+Washington County Jail,2020-07-11,2021-06-12,48.00,Public,mixed,AR,1.00,1,1,0,late,low,R,NA,TRUE,3,0.06250,15,31.25,1.000,100.00
+Webb County Detention Center (CCA),2020-05-07,2021-06-12,57.29,Private,mixed,TX,71.78,100,42,-58,late,low,R,NA,TRUE,3,0.05237,23,40.15,0.603,60.26
+Worcester County Jail,2020-09-03,2021-06-17,41.00,Public,mixed,MA,37.24,87,20,-77,early,high,D,NA,FALSE,0,0.00000,0,0.00,0.000,0.00
+York County Prison,2020-05-06,2021-06-11,57.29,Public,mixed,PA,357.91,411,279,-32,early,low,D,NA,TRUE,3,0.05237,12,20.95,0.133,13.31
+Yuba County Jail,2020-12-24,2021-06-10,24.00,Public,mixed,CA,22.48,28,18,-36,early,low,D,NA,TRUE,1,0.04167,3,12.50,0.111,11.11
